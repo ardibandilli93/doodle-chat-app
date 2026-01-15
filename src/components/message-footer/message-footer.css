@@ -1,0 +1,27 @@
+.message-footer {
+  background-color: #3898D3;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.message-footer .message-input {
+  flex: 1;
+  padding: 20px;
+}
+
+.message-footer .send-button {
+  padding: 20px 30px;
+  background-color: #F9876D;
+}
+
+.message-footer input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 20px;
+  outline: none;
+  background-color: white;
+  width: 100%;
+  color: black;
+}
